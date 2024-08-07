@@ -32,7 +32,7 @@ const Hero = () => {
                     words='Innovating Through Code'
                 />
                 <p className='text-center md: tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                    Hi, I'm Saman Fatima, a dedicated Computer Engineer based in Northern Virginia. 
+                    Hi, I&apos;sm Saman Fatima, a dedicated Computer Engineer based in Northern Virginia. 
                 </p>
 
                 <a href='#about'>

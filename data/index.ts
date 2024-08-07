@@ -73,29 +73,29 @@ export const projects = [
     id: 1,
     title: "AgeWell",
     des: "A holistic wellness platform designed to help individuals of all ages embrace a healthier lifestyle through Yoga/Physical Therapy.",
-    img: "./gsap.svg",
-    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./fm.svg"],
+    img: "/gsap.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
   },
   {
     id: 2,
     title: "BookReview",
     des: "Developed a user-friendly platform where readers can post and share their thoughts on various books, fostering a community of literary enthusiasts.",
-    img: "./next.svg",
-    iconLists: ["./tail.svg", "./ts.svg", "./stream.svg", "./c.svg"],
+    img: "/next.svg",
+    iconLists: ["/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
   },
   {
     id: 3,
     title: "Educational Hangman",
     des: "Established an interactive and collaborating educational hangman game using Java in J grasp to provide free educational resources to underserved children in Pakistan.",
-    img: "./p1.svg",
-    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./c.svg"],
+    img: "/p1.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
   },
   {
     id: 4,
     title: "Tic-Tac-Toe",
     des: "Created a study break management tool with versatile gaming experience, featuring both two-player mode and a responsive AI opponent with adjustable difficulty levels",
-    img: "./three.svg",
-    iconLists: ["./next.svg", "./tail.svg", "./ts.svg"],
+    img: "/three.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
   },
 ];
 
@@ -139,42 +139,42 @@ export const workExperience = [
     title: "SWE Fellow @ HeadStarter AI",
     desc: "Developed and implemented innovative AI solutions, contributing to the advancement of cutting-edge technology and driving impactful results.",
     className: "md:col-span-2",
-    thumbnail: "./exp1.svg",
+    thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Break Through Tech AI @ Cornell Tech",
     desc: "Contributed towards 12-month long program, including Machine Learning Certificate with Cornell faculty, experiential learning experiences, and membership from industry professionals.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "./exp2.svg",
+    thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "FutureMaker @ MIT",
     desc: "Engaged in a comprehensive program focused on foundation AI and machine learning concepts, including a AI certificate.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "./exp3.svg",
+    thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Cybersecurity Intern Global Shalla @ Illinois Institute of Technology",
     desc: "Collaborated with a global team to address cybersecurity challenges and improve overall security posture.",
     className: "md:col-span-2",
-    thumbnail: "./exp4.svg",
+    thumbnail: "/exp4.svg",
   },
 ];
 
 export const socialMedia = [
   {
     id: 1,
-    img: "./git.svg",
+    img: "/git.svg",
   },
   {
     id: 2,
-    img: "./twit.svg",
+    img: "/twit.svg",
   },
   {
     id: 3,
-    img: "./link.svg",
+    img: "/link.svg",
   },
 ];
